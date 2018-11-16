@@ -1,0 +1,3 @@
+smart_open
+awscli
+pyyaml

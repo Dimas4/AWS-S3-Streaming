@@ -1,0 +1,5 @@
+bucket:
+  name: bucket_smart
+  file: file.txt
+host:
+  bridge: 172.17.0.1
